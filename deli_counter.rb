@@ -12,3 +12,4 @@ def line(array)
     puts "The line is empty."
   end
 end
+line(katz_deli)
