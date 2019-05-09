@@ -9,7 +9,7 @@ def line(array)
     end
     puts "The line is currently: #{nuarray.join(" ")}"
   else
-    puts "The line is empty."
+    puts "The line is currently empty."
   end
 end
 line(katz_deli)
